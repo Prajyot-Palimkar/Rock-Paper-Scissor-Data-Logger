@@ -1,4 +1,8 @@
 
+# Rock Paper Scissor Data Logger
+
+The motivation behind making this application is to play rock paper scissor in the isolation ward. It is a data logger that counts the number of times each of the three signal is recognized.
+
 ## Installing Libraries
 
 To run this application, you just need to import the few libraries. Following is the code to import the required libraries.
