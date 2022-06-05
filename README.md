@@ -26,7 +26,8 @@ from collections import deque
 
 ## Load the model
 
-Once the required libraries are installed and imported you are ready to go. Now you need train the model. For your easy go I had already trained the model and saved it. You can find the trained model `rps4.h5` in my repository. One can load my model by following code.
+Once the required libraries are installed and imported you are ready to go. Now you need train the model. For your easy go I had already trained the model and saved it. You can find the trained model [rps4.h5](https://drive.google.com/file/d/1FBHmCptx-l4-xOLolAa8LAJpT1HCwt75/view?usp=sharing) from here. One can load my model by following code.
+
 
 ```bash
 model = load_model("rps4.h5")
